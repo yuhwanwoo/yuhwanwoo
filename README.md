@@ -7,7 +7,7 @@
 -----------------
 
 
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuhwanwoo&show_icons=true&theme=onedark)
+ <center>![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuhwanwoo&show_icons=true&theme=onedark)</center>
 
 
 ------------------
