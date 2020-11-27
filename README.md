@@ -1,8 +1,8 @@
 <!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuhwanwoo)](https://github.com/anuraghazra/github-readme-stats)-->
 ----------------
+#### [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyuhwanwoo&count_bg=%23E594C7&title_bg=%238D9CA0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 😄 I Love Coding ... [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyuhwanwoo&count_bg=%23E594C7&title_bg=%238D9CA0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+### 😄 I Love Coding ... 
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yanoo.tistory.com/)](https://yanoo.tistory.com/)
 -----------------
 
